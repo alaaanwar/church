@@ -1,0 +1,53 @@
+[
+  {
+    "id": "q1",
+    "question": "ما هي عاصمة فرنسا؟",
+    "options": [
+      "باريس",
+      "لندن",
+      "روما",
+      "برلين"
+    ],
+    "optionImages": [
+      "assets/images/paris.png",
+      "assets/images/london.png",
+      "assets/images/rome.png",
+      "assets/images/berlin.png"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": "q2",
+    "question": "ما هو ناتج 2 + 2؟",
+    "options": [
+      "3",
+      "4",
+      "5",
+      "6"
+    ],
+    "optionImages": [
+      "assets/images/number3.png",
+      "assets/images/number4.png",
+      "assets/images/number5.png",
+      "assets/images/number6.png"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "q3",
+    "question": "لغة البرمجة المستخدمة في Flutter هي؟",
+    "options": [
+      "Java",
+      "Kotlin",
+      "Dart",
+      "Swift"
+    ],
+    "optionImages": [
+      "assets/images/java.png",
+      "assets/images/kotlin.png",
+      "assets/images/dart.png",
+      "assets/images/swift.png"
+    ],
+    "answerIndex": 2
+  }
+]
