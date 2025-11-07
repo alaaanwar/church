@@ -1,0 +1,13 @@
+/*
+  X-Frame-Options: SAMEORIGIN
+  X-Content-Type-Options: nosniff
+  X-XSS-Protection: 1; mode=block
+
+/*.js
+  Content-Type: application/javascript
+
+/*.wasm
+  Content-Type: application/wasm
+
+/main.dart.js
+  Content-Type: application/javascript

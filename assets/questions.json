@@ -1,0 +1,7 @@
+[]
+
+PageRoute(
+  builder: (_) => const QuizScreen(
+    questionsUrl: 'https://github.com/alaaanwar/church/blob/main/questions.json',
+  ),
+),
